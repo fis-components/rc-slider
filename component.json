@@ -6,10 +6,8 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "classnames": "^2.2.1",
-        "object-assign": "^4.0.1",
         "rc-tooltip": "3.x",
         "rc-util": "3.x"
     },
-    "version": "3.3.1"
+    "version": "3.1.2"
 }
